@@ -7,6 +7,9 @@ The game leverages Unity’s **XR Interaction Toolkit** to provide intuitive and
 
 ---
 
+![bg](https://github.com/user-attachments/assets/6c0719a5-35a7-4fb9-aaa4-212afc81594c)
+
+
 ## Features  
 - **Dynamic Cooking System:**  
   - Real-time material changes (e.g., "Cooked" and "Burned") based on player actions.  
