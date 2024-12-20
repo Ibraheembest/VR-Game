@@ -47,7 +47,8 @@ The game leverages Unity’s **XR Interaction Toolkit** to provide intuitive and
 
 ### Scene Hierarchy  
 Here’s a snapshot of the project’s scene hierarchy:  
-> ![image](https://github.com/user-attachments/assets/d2209b42-5873-4b48-a097-949b5abcb6f7)
+![bg (1)](https://github.com/user-attachments/assets/e4c5ac44-a2ed-485f-97b8-4746de69837d)
+
 
 ---
 
