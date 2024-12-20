@@ -9,6 +9,15 @@ TagManager:
   - Destroyer
   - MiniWorldCamera
   - Water
+  - Sliceable
+  - CutPiece
+  - Food
+  - Cube1
+  - Cube
+  - Table
+  - Item
+  - Cashier
+  - Hamburger
   layers:
   - Default
   - TransparentFX
