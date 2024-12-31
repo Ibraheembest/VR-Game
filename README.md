@@ -1,7 +1,7 @@
 # VR Burgerito Game 🎮🔥  
 
 ## Overview  
-**VR Grill Master** is an interactive and immersive virtual reality game where players take on the role of a chef at a grill station. Using XR technologies, players cook and serve food while managing tasks like flipping steaks, preparing hamburgers, and earning points to level up.  
+**VR Burgerito Game** is an interactive and immersive virtual reality game where players take on the role of a chef at a grill station. Using XR technologies, players cook and serve food while managing tasks like flipping steaks, preparing hamburgers, and earning points to level up.  
 
 The game leverages Unity’s **XR Interaction Toolkit** to provide intuitive and realistic interactions with in-game objects, ensuring an engaging experience for players.
 
@@ -45,8 +45,8 @@ https://github.com/user-attachments/assets/0fc8b1b1-4b7b-46cc-856b-2683516eed7e
 ### Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/yourusername/VR-Grill-Master.git  
-   cd VR-Grill-Master  
+   git clone https://github.com/yourusername/VR-Burgerito-Game.git  
+   cd VR-Burgerito-Game  
    ```  
 2. Open the project in Unity.  
 3. Ensure your XR headset is connected and set up in Unity using the XR Interaction Toolkit.  
